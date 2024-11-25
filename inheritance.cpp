@@ -16,7 +16,7 @@ public:
     
 };
 
-class salary: public work {
+class salary: public work, employee {
     
 };
 
